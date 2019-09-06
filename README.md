@@ -9,6 +9,3 @@ Languages used in the development of project are: -
 4.SQL
 5.PHP
 
-Features of the project :
-
-The project contains 
